@@ -1,12 +1,9 @@
 
 <div align="center">
   <h1>Official Code Release for "From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Models"</h1>
-<a href="https://dummy_url/" target="_blank">
+<a href="https://arxiv.org/abs/2512.05277" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-red?logo=arxiv" height="20" />
 </a>
-<!-- <a href="https://dummy_url/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/🌎_Website-blue.svg" height="20" />
-</a> -->
 <a href="https://huggingface.co/datasets/vbdai/TAD" target="_blank">
     <img alt="HF Dataset: TAD" src="https://img.shields.io/badge/%F0%9F%A4%97%20_TAD_Bench-ffc107?color=ffc107&logoColor=white" height="20" />
 </a>
@@ -133,10 +130,10 @@ If this code is useful, please cite it in your documents.
       title={From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Models}, 
       author={Kevin Cannons, Saeed Ranjbar Alvar, Mohammad Asiful Hossain,Ahmad Rezaei, Mohsen Gholami, Alireza Heidarikhazaei, Zhou Weimin, Yong Zhang,Mohammad Akbari},
       year={2025},
-      eprint={},
+      eprint={2512.05277},
       archivePrefix={arXiv},
-      primaryClass={},
-      url={}, 
+      primaryClass={CV},
+      url={https://arxiv.org/abs/2512.05277}, 
 }
 ```
 
