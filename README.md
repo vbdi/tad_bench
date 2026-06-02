@@ -15,7 +15,7 @@
   <img src="./figs/teaser_sub_2.png" alt="Figure 2" width="32%"/>
 </p>
 
-- Update: Paper is accepted to AIWILD at ICML 2026.
+- Update: TAD is accepted to AIWILD at ICML 2026.
 
 
 # 📌 Key Highlights
