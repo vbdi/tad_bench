@@ -15,6 +15,9 @@
   <img src="./figs/teaser_sub_2.png" alt="Figure 2" width="32%"/>
 </p>
 
+- Update: Paper is accepted to AIWILD at ICML 2026.
+
+
 # 📌 Key Highlights
 - 🚗 Temporal Understanding in Autonomous Driving (**TAD**) benchmark: Consists of nearly 6,000 question–answer (QA) pairs, spanning 7 human‑designed tasks to evaluate VLMs’ ability to capture the dynamic relationships between actions in AD.  
 - ⚡ **Scene-CoT** and **TCogMap:** Two novel, training-free solutions are proposed, one of which leverages Chain-of-Thought (CoT) and the other which incorporates an ego-centric temporal cognitive map. These approaches are shown to improve average accuracy on TAD by up to 17.72%
