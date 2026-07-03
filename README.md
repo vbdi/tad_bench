@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Official Code Release for "From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Models"</h1>
+  <h1>Official Code Release for "From Segments to Scenes: Temporal Understanding for Agentic Autonomous Driving via Vision-Language Models"</h1>
 <a href="https://arxiv.org/abs/2512.05277" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-red?logo=arxiv" height="20" />
 </a>
